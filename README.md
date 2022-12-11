@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lksbckmnn
-- 👀 I’m interested in Machine Learning esp. ComputerVision and Deep Learning
+- 👀 I’m interested in Machine Learning esp. Computer Vision and Deep Learning
 - 🌱 I’m currently looking into 3D box detection and having fun with networks.
 - 💞️ I’m open for collaboration :)
 
